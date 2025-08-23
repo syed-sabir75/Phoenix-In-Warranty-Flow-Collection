@@ -62,9 +62,9 @@ jobs:
           to: sabirsyed5786@gmail.com
           from: ${{ secret.EMAIL_USERNAME }}
           body: |
-                Hi
-                Phoenix In-Warranty flow test has been executed. The report has been published and the URL
-                is: https://syed-sabir75.github.io/Phoenix-In-Warranty-Flow-Collection/
+                 Hi
+                 Phoenix In-Warranty flow test has been executed. The report has been published and the URL
+                 is: https://syed-sabir75.github.io/Phoenix-In-Warranty-Flow-Collection/
           
           
           
